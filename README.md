@@ -1,4 +1,4 @@
-# Hi there, I'm Aleksey) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Aleksey) 
 ### .Net developer
 ### Enjoys learning new things and is willing to perform tasks of any complexity
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+on+Asp.net)](https://git.io/typing-svg)
