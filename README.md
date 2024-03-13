@@ -1,5 +1,5 @@
 # Hi there, I'm Aleksey) 
-## Main area
+## Main direction
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ## Additional direction
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
