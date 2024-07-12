@@ -1,4 +1,12 @@
 # Hi there, I'm Aleksey) 
+I'm a .net programmer with 2 years of experience in commercial development.
+
+Was involved in the development of projects such as:
+- Banking Exchange
+- Computer Club
+- Crypto ATM
+
+Now I am actively looking for new challenges for myself and am ready to conquer new heights
 ## Main direction
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ## Additional direction
