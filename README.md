@@ -1,4 +1,4 @@
-# Hi there, I'm Aleksey) 
+# Aleksey Gryzlov
 I'm a .net programmer with 2 years of experience in commercial development.
 
 Was involved in the development of projects such as:
