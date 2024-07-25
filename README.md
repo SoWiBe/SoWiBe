@@ -22,4 +22,6 @@ Now I am actively looking for new challenges for myself and am ready to conquer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+on+Asp.net;Using+Autofac;)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+on+Wpf;Mvvm+architecture;Razor+pages)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spring+boot;Microservices+architecture;Redis+caching)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Mongo+db;Database+architecture;)](https://git.io/typing-svg)
 
