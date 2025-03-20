@@ -1,5 +1,5 @@
 # Aleksey Gryzlov
-I'm a .net programmer with 2 years of experience in commercial development.
+I'm a .net programmer with 3 years of experience in commercial development.
 
 Was involved in the development of projects such as:
 - Banking Exchange
