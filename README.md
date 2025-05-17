@@ -1,25 +1,54 @@
-# Aleksey Gryzlov
-I'm a .net programmer with 3 years of experience in commercial development.
+# 👋 Привет, я Алексей Грызлов
 
-Was involved in the development of projects such as:
-- Banking Exchange
-- Computer Club
-- Crypto ATM
+Я .NET-разработчик с 3-летним опытом коммерческой разработки.
 
-Now I am actively looking for new challenges for myself and am ready to conquer new heights
-## Main direction
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+## 🚀 Проекты, в которых участвовал
 
-## Working with these databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- **Banking Exchange**
+- **Computer Club**
+- **Crypto ATM**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+on+Asp.net;Using+Autofac;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+on+Wpf;Mvvm+architecture;Razor+pages)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Spring+boot;Microservices+architecture;Redis+caching)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Mongo+db;Database+architecture;)](https://git.io/typing-svg)
+В настоящее время активно ищу новые вызовы и готов покорять новые вершины.
 
+---
+
+## 💼 Основное направление
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+## 🛢️ Работа с базами данных
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+## 📊 GitHub Статистика
+
+- 🔭 Репозиториев: **42**
+- ⭐ Звёзд: **20**
+- 👥 Подписчиков: **9**
+- 🌍 Локация: *Омск, Россия*
+- 🕒 Местное время: *UTC+06:00*
+
+---
+
+## 🏆 Достижения
+
+- 🎖️ YOLO x2
+
+---
+
+## 📫 Контакты
+
+- GitHub: [@SoWiBe](https://github.com/SoWiBe)
+
+---
+
+> ✨ "Начать — всегда самая трудная часть"
