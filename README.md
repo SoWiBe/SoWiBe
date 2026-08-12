@@ -43,7 +43,7 @@ Backend-разработчик на .NET. Пишу REST API и сервисы н
 
 ### Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Evewibe)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aleksey.dantist@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SoWiBe&show_icons=true&hide_border=true&theme=default)
